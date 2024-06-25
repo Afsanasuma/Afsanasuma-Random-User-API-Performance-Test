@@ -1,0 +1,34 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 200,
+    "errorCount" : 1,
+    "errorPct" : 0.5,
+    "meanResTime" : 828.2200000000001,
+    "medianResTime" : 760.0,
+    "minResTime" : 495.0,
+    "maxResTime" : 21051.0,
+    "pct1ResTime" : 862.8,
+    "pct2ResTime" : 885.8,
+    "pct3ResTime" : 1615.820000000001,
+    "throughput" : 0.3346725814467561,
+    "receivedKBytesPerSec" : 1.553067070267855,
+    "sentKBytesPerSec" : 0.042600485965505294
+  },
+  "BOOK API" : {
+    "transaction" : "BOOK API",
+    "sampleCount" : 200,
+    "errorCount" : 1,
+    "errorPct" : 0.5,
+    "meanResTime" : 828.2200000000001,
+    "medianResTime" : 760.0,
+    "minResTime" : 495.0,
+    "maxResTime" : 21051.0,
+    "pct1ResTime" : 862.8,
+    "pct2ResTime" : 885.8,
+    "pct3ResTime" : 1615.820000000001,
+    "throughput" : 0.3346725814467561,
+    "receivedKBytesPerSec" : 1.553067070267855,
+    "sentKBytesPerSec" : 0.042600485965505294
+  }
+}
