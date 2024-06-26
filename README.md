@@ -1,4 +1,4 @@
-# Project Title: Book API Load Test Using Jmeter
+# Project Title: API Load Test Using Jmeter
 
 ## Project Summary: 
 In this project, i have done load test for this Scenario "120000 users can give load for 12 hours". I found  actual TPS (Transaction Per/Second) and matched the expected TPS meet the above requirement. Created excel file report for TPS.
